@@ -1,0 +1,73 @@
+{
+    "code": 0,
+    "msg": "",
+    "count": 100,
+    "data": [{
+      "id": 1,
+      "username": "青海省人力资源管理局",
+      "sex": "青海省总工会",
+      "city": "2016-08-06",
+      "sign": "待审批",
+      "experience": "一级",
+      "logins": 24,
+      "wealth": 82830700,
+      "classify": "3000",
+      "score": "吴鹏德"
+    }, {
+      "id": 2,
+      "username": "西宁市总工会",
+      "sex": "青海省总工会",
+      "city": "2018-08-06",
+      "sign": "200",
+      "experience": "二级",
+      "logins": 58,
+      "wealth": 64928690,
+      "classify": "2000",
+      "score": "李娜"
+    }, {
+      "id": 3,
+      "username": "海西州总工会",
+      "sex": "青海省总工会",
+      "city": "2016-05-09",
+      "sign": "100",
+      "experience": "二级",
+      "logins": 77,
+      "wealth": 6298078,
+      "classify": "1500",
+      "score": "王东"
+    }, {
+      "id": 4,
+      "username": "西宁市城北区总工会",
+      "sex": "西宁市总工会",
+      "city": "xxxx-xx-xx",
+      "sign": "500",
+      "experience":"三级",
+      "logins": 157,
+      "wealth": 37117017,
+      "classify": "1700",
+      "score": "张磊"
+    }, {
+      "id": 5,
+      "username": "茫崖行委总工会",
+      "sex":"海西州总工会",
+      "city": "xxxx-xx-xx",
+      "sign": "90",
+      "experience":"三级",
+      "logins": 51,
+      "wealth": 76263262,
+      "classify": "2500",
+      "score": "王浩"
+    }, {
+      "id":6,
+      "username": "省自然资源局工会",
+      "sex": "青海省总工会",
+      "city": "xxxx-xx-xx",
+      "sign": "150",
+      "experience": "二级",
+      "logins": 68,
+      "wealth": 60344147,
+      "classify": "1000",
+      "score": "张平"
+    }]
+  }
+  
